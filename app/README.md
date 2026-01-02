@@ -1,0 +1,1 @@
+This folder contains the Streamlit application for real-time bioactivity prediction targeting the KRAS GTPase protein. This app allows users to input chemical structures (SMILES) and receive a predicted pIC50 value based on the trained Random Forest model.
