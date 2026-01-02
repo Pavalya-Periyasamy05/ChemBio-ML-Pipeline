@@ -11,5 +11,5 @@ This folder contains the Streamlit application for real-time bioactivity predict
    ```bash
    pip install -r requirements.txt
 3. **Launch the App:** Run the following command in your terminal to start the interface:
-  ```bash
-  streamlit run app.py
+   ```bash
+   streamlit run app.py
