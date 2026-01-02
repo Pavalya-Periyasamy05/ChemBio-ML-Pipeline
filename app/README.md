@@ -5,7 +5,5 @@ How to Run Locally
 2. Install Dependencies: Ensure you have the required libraries installed:
 ```bash
 pip install -r requirements.txt
-```bash
-```bash
 streamlit run app.py
-```bash
+
