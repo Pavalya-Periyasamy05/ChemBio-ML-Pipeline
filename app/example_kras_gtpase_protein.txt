@@ -1,0 +1,5 @@
+Cc1[nH]c2cc(Cl)cc(Cl)c2c1CCN CHEMBL2396992
+CC(C)[C@@H]1NC(=O)[C@@H](CC(N)=O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccc(F)cc2)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCC(N)=O)NC(=O)C[C@@H](CCc2ccccc2)NC(=O)[C@@H]2CCCCN2C(=O)C(=O)C(C)(C)COC1=O CHEMBL3218635
+CCCC[C@H]1NC(=O)[C@@H](Cc2ccc3ccccc3c2)NC(=O)[C@@H](Cc2ccc3ccccc3c2)NC(=O)[C@@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccc(F)cc2)NC(=O)[C@H](CCC(N)=O)NC(=O)C[C@@H](CCc2ccccc2)NC(=O)[C@@H]2CCCCN2C(=O)C(=O)C(C)(C)COC1=O CHEMBL3218636
+CC1(C)COC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](CCCNC(=N)N)NC(=O)CNC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](Cc2ccc3ccccc3c2)NC(=O)[C@H](CCCN)NC(=O)[C@H](CCC(N)=O)NC(=O)C[C@@H](CCc2ccccc2)NC(=O)[C@@H]2CCCCN2C(=O)C1=O CHEMBL3218637
+CC(C)C[C@@H]1NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](Cc2ccc(F)cc2)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(N)=O)NC(=O)C[C@@H](CCc2ccccc2)NC(=O)[C@@H]2CCCCN2C(=O)C(=O)C(C)(C)COC1=O CHEMBL3218638
