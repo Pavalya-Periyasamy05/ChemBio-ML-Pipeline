@@ -54,5 +54,5 @@ This project was inspired by the bioinformatics tutorials developed by **Chanin 
 
 ---
 
-## ⚖️ License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
