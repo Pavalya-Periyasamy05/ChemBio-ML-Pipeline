@@ -10,6 +10,9 @@ This folder contains the Streamlit application for real-time bioactivity predict
 2. **Install Dependencies:** Open your terminal in this folder and ensure you have the required libraries installed:
    ```bash
    pip install -r requirements.txt
-3. **Launch the App:** Run the following command in your terminal to start the interface:
+   
+3. **PaDEL-Descriptors Setup:** This app uses PaDEL-Descriptors for fingerprinting. All necessary files are located in the `/app/PaDEL-Descriptor/` folder.
+      
+4. **Launch the App:** Run the following command in your terminal to start the interface:
    ```bash
    streamlit run app.py
